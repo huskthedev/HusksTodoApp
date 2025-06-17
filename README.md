@@ -1,2 +1,6 @@
 # HusksTodoApp
-This is a normal Todo list app you can just download and modify
+
+**Husks customizable todo list**
+
+- coded in html,css,java
+- easy customizable if you know basics of html ect
